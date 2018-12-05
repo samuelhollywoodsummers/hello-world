@@ -1,5 +1,4 @@
 # hello-world
-A means to the end of learning a new tool
 
 I am a sound designer keen to learn more about DSP and audio programming.
 I have used Max/MSP in the past and I am now learning Pure Data, and hoping to also teach myself some typed languages.
